@@ -1,6 +1,6 @@
 # asdf-gefyra
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-gefyra/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-gefyra/actions)
+[![Main Workflow](https://github.com/virtualstaticvoid/asdf-gefyra/actions/workflows/workflow.yml/badge.svg)](https://github.com/virtualstaticvoid/asdf-gefyra/actions/workflows/workflow.yml)
 
 gefyra [`gefyra`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
